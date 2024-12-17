@@ -1,0 +1,3 @@
+wwwroot\bootstrap.min.css
+wwwroot\index.html
+wwwroot\script.js
